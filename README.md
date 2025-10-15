@@ -1,6 +1,6 @@
-# 🎵 PlakPlak  
+# PlakPlak  
 
-## 📖 Proje Amacı  
+## Proje Amacı  
 **PlakPlak**, belirli müzik türlerine ait **albüm** ve **plakların** satışının yapıldığı bir **e-ticaret sitesi projesidir.**  
 Bu proje, kullanıcıların albümleri detaylı şekilde inceleyebileceği, beğendikleri ürünleri sepete ekleyip yönetebileceği bir alışveriş deneyimi sunmak amacıyla geliştirilmiştir.  
 
@@ -9,7 +9,7 @@ Veri depolama **MySQL veritabanı** aracılığıyla sağlanmış, özgün ve ku
 
 ---
 
-## 💻 Yaptığım Kısımlar  
+## Yaptığım Kısımlar  
 - Kullanıcı kayıt, giriş ve şifre sıfırlama işlemleri  
 - Ürünlerin detay sayfalarında görüntülenmesi  
 - Sepete ürün ekleme ve sepet yönetimi  
@@ -18,7 +18,7 @@ Veri depolama **MySQL veritabanı** aracılığıyla sağlanmış, özgün ve ku
 
 ---
 
-## ⚙️ Kullanılan Teknolojiler  
+## Kullanılan Teknolojiler  
 - **HTML**  
 - **CSS**  
 - **Bootstrap**  
@@ -30,5 +30,5 @@ Veri depolama **MySQL veritabanı** aracılığıyla sağlanmış, özgün ve ku
 
 ---
 
-## 🎯 Genel Amaç  
+## Genel Amaç  
 Bu projenin temel amacı, müzikseverlerin farklı türlerdeki albüm ve plakları kolayca inceleyip satın alabileceği, sade ve kullanışlı bir e-ticaret deneyimi sunmaktır.  
